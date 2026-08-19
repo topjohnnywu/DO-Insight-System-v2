@@ -1,0 +1,8 @@
+{
+  "name": "DO Status Hub",
+  "description": "DO Insight System analytics, scanning platform, truck load planner, and volume capacity planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
